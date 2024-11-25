@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Joon Kim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24 June, 2022
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
@@ -21,14 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
-- title: Experience
+
+- title: ExperienceJoon_Kim_Photo.JPG
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -70,7 +65,7 @@
 
 - title: Honors and Awards
   type: time_table
-  contents:
+  contents:Joon_Kim_Photo.JPG
     - year: 1921
       items:
         - Nobel Prize in Physics
