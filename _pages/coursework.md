@@ -2,12 +2,12 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: Courses taken at UC Berkeley. Scribed lecture notes for selected courses.
+description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses.
 nav: true
 nav_order: 6
 ---
 
-Spring 25 (Tentative Schedule)
+#### Spring 25 (Tentative Schedule)
 - CS174: Combinatorics and Discrete Probability
 - CS177: Algorithmic Economics
 - EECS127: Optimization Models in Engineering *or* CS176: Algorithms for Computational Biology
