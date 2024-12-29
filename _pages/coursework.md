@@ -9,14 +9,17 @@ nav_order: 6
 
 #### Spring 25 (Tentative Schedule)
 - CS 174: Combinatorics and Discrete Probability
-- CS 177: Algorithmic Economics
-- EECS 127: Optimization Models in Engineering *or* CS 176: Algorithms for Computational Biology
+- Two of:
+    - CS 177: Algorithmic Economics
+    - EECS 127: Optimization Models in Engineering
+    - CS 176: Algorithms for Computational Biology
+    - CS 294-92: Analysis of Boolean Algorithms (Grad Course, Enrollment not guaranteed)
 
 #### Fall 24
-- CS 170: Efficient Algorithms and Intractable Problems (Current) [Notes](../assets/pdf/class_notes/CS170.pdf)
-- CS 188: Introduction to Artificial Intelligence (Current) [Notes](../assets/pdf/class_notes/CS188.pdf)
-- CS 61C: Great Ideas in Computer Architecture (Current) [Notes](../assets/pdf/class_notes/CS61C.pdf)
-- CS 199: Supervised Independent Study (Current)
+- CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)
+- CS 188: Introduction to Artificial Intelligence (A) [Notes](../assets/pdf/class_notes/CS188.pdf)
+- CS 61C: Great Ideas in Computer Architecture (A) [Notes](../assets/pdf/class_notes/CS61C.pdf)
+- CS 199 (Lab Research): Supervised Independent Study (P)
 
 #### Summer 24
 - CS 61BL: Data Structures and Programming Methodology (A+)
@@ -28,7 +31,7 @@ nav_order: 6
 - EECS 16B: Designing Information Devices and Systems II (A+) [Notes](../assets/pdf/class_notes/EECS16B.pdf)
 - ENGIN 7: Introduction to Computer Programming for Scientists and Engineers (A+)
 - HIST 137AC: Immigrants and Immigration as U.S. History (P)
-- UGIS 192E: Supervised Research: Interdisciplinary Studies (P)
+- UGIS 192E (URAP): Supervised Research: Interdisciplinary Studies (P)
 
 #### Fall 21
 - EECS 16A: Designing Information Devices and Systems I (A+) [Notes](../assets/pdf/class_notes/EECS16A.pdf)
