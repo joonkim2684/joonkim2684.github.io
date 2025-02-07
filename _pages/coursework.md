@@ -7,13 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-#### Spring 25 (Tentative Schedule)
+#### Spring 25 (Current)
 - CS 174: Combinatorics and Discrete Probability
-- Two of:
-    - CS 177: Algorithmic Economics
-    - EECS 127: Optimization Models in Engineering
-    - CS 176: Algorithms for Computational Biology
-    - CS 294-92: Analysis of Boolean Algorithms (Grad Course, Enrollment not guaranteed)
+- CS 177: Algorithmic Economics
+- CS 176: Algorithms for Computational Biology
+- CS 294: Constraint Satisfaction Problems (Grad Course)
 
 #### Fall 24
 - CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)

@@ -12,7 +12,6 @@ nav_order: 7
 - Approximation Algorithms (V. Vazirani)
 - generatingfunctionology (Wilf)
 - [Lectures Notes on Algorithmic Game Theory](https://timroughgarden.org/f13/f13.pdf) (Roughgarden)
-- [Introduction to Statistical Learning Theory](https://www.econ.upf.edu/~lugosi/mlss_slt.pdf) (Bousquet, Boucheron, and Lugosi)
 
 ### "Complete" Readings
 ##### Computer Science 
