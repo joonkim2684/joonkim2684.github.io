@@ -9,9 +9,9 @@ nav_order: 6
 
 #### Spring 25 (Current)
 - CS 174: Combinatorics and Discrete Probability
-- CS 177: Algorithmic Economics
 - CS 176: Algorithms for Computational Biology
-- CS 294: Constraint Satisfaction Problems (Grad Course)
+- CS 177: Algorithmic Economics
+- CS 294-284: Constraint Satisfaction Problems [Special Topics]
 
 #### Fall 24
 - CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)

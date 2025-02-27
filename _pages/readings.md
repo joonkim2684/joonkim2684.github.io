@@ -2,16 +2,23 @@
 layout: page
 permalink: /readings/
 title: readings
-description: Personal record of my (often messy and informal) attempts on self-learning various topics outside college coursework. "Complete" readings do not mean that I have read the book from cover to cover but rather that I was satisfied with moving on to the next topic. I might return to them upon reassessment, so it might be more fitting to call them "dormant." Finally, these are not to be considered serious efforts at studying these topics, although some are indeed closely related to my academic interests.
+description: Personal record of my (often messy and informal) attempts on self-learning various topics outside college coursework. "Complete" readings do not mean that I have read the book from cover to cover but rather that I was satisfied with moving on to the next topic. I might return to them upon reassessment, so it might be more fitting to call them "dormant." Finally, most resources here are not considered serious efforts at studying these topics, although some are indeed closely related to my academic interests.
 nav: true
 nav_order: 7
 ---
 
 ### Current Readings
+- [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book) (Diakonikolas and Kane)
 - Mathematics and Computation (Wigderson)
 - Approximation Algorithms (V. Vazirani)
+
+### To Read (Someday?)
+- Graph Spectra for Complex Networks (Mieghem)
+- Linear Algebra Done Right (Axler)
+- Principle of Mathematical Analysis (Rubin)
+- How to Solve It (Polya)
 - generatingfunctionology (Wilf)
-- [Lectures Notes on Algorithmic Game Theory](https://timroughgarden.org/f13/f13.pdf) (Roughgarden)
+- Concrete Mathematics (Graham)
 
 ### "Complete" Readings
 ##### Computer Science 

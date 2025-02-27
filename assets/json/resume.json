@@ -23,8 +23,8 @@
       "position": "Undergraduate Researcher",
       "url": "https://chenlab.io/",
       "startDate": "2024-07-01",
-      "endDate": "Current",
-      "summary": "Designed zero-shot LLM pseudo-labeling pipeline to improve semi-supervised learning accuracy. Worked on RadQA dataset; implemented FixMatch on a non-inference task for baseline comparison. Taking on a new project on evaluating stigmatizing language in clinical notes.",
+      "endDate": "2025-02-01",
+      "summary": "Designed zero-shot LLM pseudo-labeling pipeline to improve semi-supervised learning accuracy. Worked on RadQA dataset; implemented FixMatch on a non-inference task for baseline comparison.",
       "highlights": ["Self-Supervised Learning", "Machine Learning", "Large Language Models", "Zero-Shot Inference"]
     },
     {
@@ -127,7 +127,15 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Randomized Algorithms",
-        "Computational Biology"
+        "Approximation Algorithms"
+      ]
+    },
+    {
+      "name": "TCS/Math",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Robust Statistics",
+        "Spectral Graph Theory"
       ]
     },
     {
