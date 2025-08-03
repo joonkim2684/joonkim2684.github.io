@@ -7,11 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-#### Spring 25 (Current)
-- CS 174: Combinatorics and Discrete Probability
-- CS 176: Algorithms for Computational Biology
-- CS 177: Algorithmic Economics
-- CS 294-284: Constraint Satisfaction Problems [Special Topics]
+#### Fall 25 (TBD)
+- CS 189: Introduction to Machine Learning
+- CS 194-302: Computational Single-Cell And Systems Immunology
+- CS 172: Computatbility and Complexity OR CS 270: Combinatorial Algorithms and Data Structures
+- MUSIC 128: Topics in the History of Music
+
+#### Spring 25 
+- CS 174: Combinatorics and Discrete Probability (A)
+- CS 176: Algorithms for Computational Biology (A)
+- CS 177: Algorithmic Economics (A)
+- CS 294-284: Constraint Satisfaction Problems (A)
 
 #### Fall 24
 - CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)
