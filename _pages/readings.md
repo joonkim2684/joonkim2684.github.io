@@ -8,13 +8,15 @@ nav_order: 7
 ---
 
 ### Current Readings
-- [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book) (Diakonikolas and Kane)
+- [Lecture Notes on Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) (Trevisan)
+- The Cauchy-Schwartz Master Class (Steele)
+- Linear Algebra Done Right (Axler)
 - Mathematics and Computation (Wigderson)
 - Approximation Algorithms (V. Vazirani)
 
 ### To Read (Someday?)
+- How does One Cut a Triangle? (Soifer)
 - Graph Spectra for Complex Networks (Mieghem)
-- Linear Algebra Done Right (Axler)
 - Principle of Mathematical Analysis (Rubin)
 - How to Solve It (Polya)
 - generatingfunctionology (Wilf)
