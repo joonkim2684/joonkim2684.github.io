@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses.
+description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses. All notes are free for use.
 nav: true
 nav_order: 6
 ---
@@ -10,14 +10,14 @@ nav_order: 6
 #### Fall 25 (TBD)
 - CS 189: Introduction to Machine Learning
 - CS 194-302: Computational Single-Cell And Systems Immunology
-- CS 172: Computatbility and Complexity OR CS 270: Combinatorial Algorithms and Data Structures
+- CS 172: Computability and Complexity OR CS 270: Combinatorial Algorithms and Data Structures
 - MUSIC 128: Topics in the History of Music
 
 #### Spring 25 
-- CS 174: Combinatorics and Discrete Probability (A)
-- CS 176: Algorithms for Computational Biology (A)
-- CS 177: Algorithmic Economics (A)
-- CS 294-284: Constraint Satisfaction Problems (A)
+- CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
+- CS 176: Algorithms for Computational Biology (A) [Notes](../assets/pdf/class_notes/CS176.pdf)
+- CS 177: Algorithmic Economics (A) [Notes](../assets/pdf/class_notes/CS177.pdf)
+- CS 294-284: Constraint Satisfaction Problems (A) [Notes](../assets/pdf/class_notes/CS294-CSP.pdf)
 
 #### Fall 24
 - CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)
