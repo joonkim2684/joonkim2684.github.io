@@ -81,7 +81,7 @@ github_username: joonkim2684 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
-instagram_id: # your instagram id
+instagram_id: joooonkim002 # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: joon-kim-blog # blog_name will be displayed in your blog page
-blog_description: Algorithms, AI, Some code. That's the plan, at least.
+blog_description: Algorithms, Theory, Some code. Maybe some AI?
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
