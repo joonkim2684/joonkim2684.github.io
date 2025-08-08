@@ -7,17 +7,31 @@
     "phone": "(510) 529-6091",
     "url": "https://joonkim2684/github.io/",
     "summary": "",
-    "location": {
-      "address": "1735 Highland Pl",
-      "postalCode": "CA 94709",
-      "city": "Berkeley",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": [
     ]
   },
+  "education": [
+    {
+      "institution": "UC Berkeley, College of Engineering",
+      "location": "Berkeley, CA",
+      "area": "Electrical Engineering and Computer Science",
+      "studyType": "Undergraduate",
+      "startDate": "2021-08",
+      "endDate": "Current",
+      "courses": []
+    }
+  ],
   "work": [
+    {
+      "name": "Rising Lab (University of Florida)",
+      "position": "Undergraduate Researcher",
+      "url": "https://sandip.ece.ufl.edu/rising-lab/",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Explored network-level bit flipping attacks on 5G Connected and Automated Vehicles (CAV). Identified vulnerabilities and proposed defense based on Forward Error Correction.",
+      "highlights": ["Connected and Automated Vehicles", "Computer Security", "Simulation"]
+    },
+
     {
       "name": "C.H.E.N. Lab (BAIR, CPH)",
       "position": "Undergraduate Researcher",
@@ -57,18 +71,7 @@
   ],
   "volunteer": [
       ],
-  "education": [
-    {
-      "institution": "UC Berkeley, College of Engineering",
-      "location": "Berkeley, CA",
-      "area": "Electrical Engineering and Computer Science",
-      "studyType": "Undergraduate",
-      "startDate": "2021-08",
-      "endDate": "Current",
-      "score": "10",
-      "courses": ["CS170 (A+)", "CS188 (A)", "CS70 (A+)", "CS61A/B/C (A+/A+/A)", "EECS16A/B (A+/A+)", "MATH53 (A+)"]
-    }
-  ],
+
   "awards": [
       ],
   "certificates": [
@@ -76,9 +79,9 @@
   "publications": [
     {
       "name": "In-Silo Federated Learning vs. Centralized Learning for Segmenting Acute and Chronic Ischemic Brain Lesions",
-      "publisher": "Medrxiv, Preprint",
-      "releaseDate": "2024-05-24",
-      "url": "https://www.medrxiv.org/content/10.1101/2024.05.24.24307154v1",
+      "publisher": "Intelligence-Based Medicine",
+      "releaseDate": "2025-08-04",
+      "url": "https://doi.org/10.1016/j.ibmed.2025.100283",
       "summary": "Comparative analysis of Federated and Centralized Learning on brain MRI images. Showed Federated Learning is as effective as Centralized learning on real-life non-i.i.d. brain lesion datasets of ~10,000 patients over 9 institutions."
     },
     {
@@ -123,18 +126,11 @@
   ],
   "interests": [
     {
-      "name": "Algorithms",
+      "name": "Theoretical CS",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Randomized Algorithms",
-        "Approximation Algorithms"
-      ]
-    },
-    {
-      "name": "TCS/Math",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Robust Statistics",
+        "Approximation Algorithms",
         "Spectral Graph Theory"
       ]
     },

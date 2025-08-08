@@ -1,19 +1,30 @@
 ---
 ---
 
-@article {Kim2024.05.24.24307154,
-	author = {Kim, Joon and Lee, Hoyeon and Park, Jonghyeok and Park, Sang Hyun and Lee, Myungjae and Sunwoo, Leonard and Kim, Chi Kyung and Kim, Beom Joon and Ryu, Wi-Sun},
-	title = {In-Silo Federated Learning vs. Centralized Learning for Segmenting Acute and Chronic Ischemic Brain Lesions},
-	elocation-id = {2024.05.24.24307154},
-	year = {2025},
-	doi = {10.1101/2024.05.24.24307154},
-	URL = {https://www.medrxiv.org/content/early/2024/05/26/2024.05.24.24307154},
-	eprint = {https://www.medrxiv.org/content/early/2024/05/26/2024.05.24.24307154.full.pdf},
-	journal = {Intelligence-Based Medicine},
-  abbr={Intell.-Based Med.},
-  bibtex_show={true},
-  selected={true},
+@article{KIM2025100283,
+title = {In-silo federated learning vs. centralized learning for segmenting acute and chronic ischemic brain lesions},
+journal = {Intelligence-Based Medicine},
+volume = {12},
+pages = {100283},
+year = {2025},
+issn = {2666-5212},
+doi = {https://doi.org/10.1016/j.ibmed.2025.100283},
+url = {https://www.sciencedirect.com/science/article/pii/S2666521225000870},
+author = {Joon Kim and Hoyeon Lee and Jonghyeok Park and Sang Hyun Park and Myungjae Lee and Leonard Sunwoo and Chi Kyung Kim and Beom Joon Kim and Dong-Eog Kim and Wi-Sun Ryu},
+keywords = {Federated learning, Image segmentation, Ischemic brain lesion, Machine learning},
+abstract = {Objectives
+To investigate the efficacy of federated learning (FL) compared to industry-level centralized learning (CL) for segmenting acute infarct and white matter hyperintensity.
+Materials and methods
+This retrospective study included 13,546 diffusion-weighted images (DWI) from 10 hospitals and 8421 fluid-attenuated inversion recovery (FLAIR) images from 9 hospitals for acute (Task I) and chronic (Task II) lesion segmentation. We trained with datasets originated from 9 and 3 institutions for Task I and Task II, respectively, and externally tested them in datasets originated from 1 and 6 institutions each. For FL, the central server aggregated training results every four rounds with FedYogi (Task I) and FedAvg (Task II). A batch clipping strategy was tested for the FL models. Performances were evaluated with the Dice similarity coefficient (DSC).
+Results
+The mean ages (SD) for the training datasets were 68.1 (12.8) for Task I and 67.4 (13.0) for Task II. The frequency of male participants was 51.5 % and 60.4 %, respectively. In Task I, the FL model employing batch clipping trained for 360 epochs achieved a DSC of 0.754 ± 0.183, surpassing an equivalently trained CL model (DSC 0.691 ± 0.229; p < 0.001) and comparable to the best-performing CL model at 940 epochs (DSC 0.755 ± 0.207; p = 0.701). In Task II, no significant differences were observed amongst FL model with clipping, without clipping, and CL model after 48 epochs (DSCs of 0.761 ± 0.299, 0.751 ± 0.304, 0.744 ± 0.304). Few-shot FL showed significantly lower performance. Task II reduced training times with batch clipping (3.5–1.75 h).
+Conclusions
+Comparisons between CL and FL in identical settings suggest the feasibility of FL for medical image segmentation.},
+abbr={Intell.-Based Med.},
+bibtex_show={true},
+selected={true},
 }
+
 
 @article{kim2024randomgradientmaskingdefensive,
       title={Random Gradient Masking as a Defensive Measure to Deep Leakage in Federated Learning}, 
