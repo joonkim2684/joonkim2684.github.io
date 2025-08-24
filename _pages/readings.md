@@ -13,6 +13,7 @@ nav_order: 7
 - Mathematics and Computation (Wigderson)
 - Approximation Algorithms (V. Vazirani)
 - A Guide to Experimental Algorithms (McGeoch)
+- Lecture Notes on Graph Partitioning, Expanders and Spectral Methods (Trevisan)
 
 ### To Read (Someday?)
 - How does One Cut a Triangle? (Soifer)
