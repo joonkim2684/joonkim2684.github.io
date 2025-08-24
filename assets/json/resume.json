@@ -73,6 +73,7 @@
       ],
 
   "awards": [
+    
       ],
   "certificates": [
       ],
@@ -126,20 +127,40 @@
   ],
   "interests": [
     {
-      "name": "Theoretical CS",
+      "name": "Theoretical CS Toolbox",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Combinatorial Algorithms",
         "Randomized Algorithms",
         "Approximation Algorithms",
         "Spectral Graph Theory"
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "NP-Optimization",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Self-Supervised Learning",
-        "Federated Learning"
+        "Heuristics",
+        "Constraint Programming",
+        "Machine Learning/Decision Theory"
+      ]
+    },
+    {
+      "name": "Algorithm Engineering",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Real Data Inputs",
+        "Beyond Worst-Case Analysis",
+        "Performance Evaluation"
+      ]
+    },
+    {
+      "name": "Scientific Modeling/Computing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Bioinformatics",
+        "Probabilistic/Statistical Models",
+        "Formal Methods"
       ]
     }
   ],
