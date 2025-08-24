@@ -12,13 +12,19 @@ doi = {https://doi.org/10.1016/j.ibmed.2025.100283},
 url = {https://www.sciencedirect.com/science/article/pii/S2666521225000870},
 author = {Joon Kim and Hoyeon Lee and Jonghyeok Park and Sang Hyun Park and Myungjae Lee and Leonard Sunwoo and Chi Kyung Kim and Beom Joon Kim and Dong-Eog Kim and Wi-Sun Ryu},
 keywords = {Federated learning, Image segmentation, Ischemic brain lesion, Machine learning},
-abstract = {Objectives
+abstract = {Objectives: 
 To investigate the efficacy of federated learning (FL) compared to industry-level centralized learning (CL) for segmenting acute infarct and white matter hyperintensity.
-Materials and methods
+
+
+Materials and methods: 
 This retrospective study included 13,546 diffusion-weighted images (DWI) from 10 hospitals and 8421 fluid-attenuated inversion recovery (FLAIR) images from 9 hospitals for acute (Task I) and chronic (Task II) lesion segmentation. We trained with datasets originated from 9 and 3 institutions for Task I and Task II, respectively, and externally tested them in datasets originated from 1 and 6 institutions each. For FL, the central server aggregated training results every four rounds with FedYogi (Task I) and FedAvg (Task II). A batch clipping strategy was tested for the FL models. Performances were evaluated with the Dice similarity coefficient (DSC).
-Results
+
+
+Results: 
 The mean ages (SD) for the training datasets were 68.1 (12.8) for Task I and 67.4 (13.0) for Task II. The frequency of male participants was 51.5 % and 60.4 %, respectively. In Task I, the FL model employing batch clipping trained for 360 epochs achieved a DSC of 0.754 ± 0.183, surpassing an equivalently trained CL model (DSC 0.691 ± 0.229; p < 0.001) and comparable to the best-performing CL model at 940 epochs (DSC 0.755 ± 0.207; p = 0.701). In Task II, no significant differences were observed amongst FL model with clipping, without clipping, and CL model after 48 epochs (DSCs of 0.761 ± 0.299, 0.751 ± 0.304, 0.744 ± 0.304). Few-shot FL showed significantly lower performance. Task II reduced training times with batch clipping (3.5–1.75 h).
-Conclusions
+
+
+Conclusions: 
 Comparisons between CL and FL in identical settings suggest the feasibility of FL for medical image segmentation.},
 abbr={Intell.-Based Med.},
 bibtex_show={true},
@@ -36,6 +42,7 @@ selected={true},
       url={https://arxiv.org/abs/2408.08430}, 
       doi={10.48550/arXiv.2408.08430},
       journal={Preprint},
+      abstract={Federated Learning(FL), in theory, preserves privacy of individual clients' data while producing quality machine learning models. However, attacks such as Deep Leakage from Gradients(DLG) severely question the practicality of FL. In this paper, we empirically evaluate the efficacy of four defensive methods against DLG: Masking, Clipping, Pruning, and Noising. Masking, while only previously studied as a way to compress information during parameter transfer, shows surprisingly robust defensive utility when compared to the other three established methods. Our experimentation is two-fold. We first evaluate the minimum hyperparameter threshold for each method across MNIST, CIFAR-10, and lfw datasets. Then, we train FL clients with each method and their minimum threshold values to investigate the trade-off between DLG defense and training performance. Results reveal that Masking and Clipping show near to none degradation in performance while obfuscating enough information to effectively defend against DLG.},
       abbr={arxiv},
       bibtex_show={true},
       selected={true},

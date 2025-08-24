@@ -18,8 +18,9 @@ nav_order: 7
 - How does One Cut a Triangle? (Soifer)
 - [Advanced Algorithms](https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf) (Gupta, NYU Lecture Notes)
 - How to Solve It (Polya)
-- Linear Algebra Done Right (Axler)
 - Concrete Mathematics (Graham)
+- Numerical Algorithms in Scientific Computing (Yang)
+- Modern Algorithms of Cluster Analysis (Wierzchon & Klopotek)
 
 ### "Complete" Readings
 ##### Computer Science 
