@@ -93,38 +93,6 @@
       "summary": "Compared the efficacy of randomly masking gradients from Federated Learning submissions against other defenses against Deep Leakage from Gradients such as Pruning, Compression, and Noising on Convolution Neural Networks"
     }
   ],
-  "skills": [
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "Tensorflow",
-        "flwr (Federated Learning Framework)"
-      ]
-    },
-    {
-      "name": "Programming",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Java",
-        "C"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Theoretical CS Toolbox",
@@ -164,6 +132,39 @@
       ]
     }
   ],
+  "skills": [
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "Tensorflow",
+        "flwr (Federated Learning Framework)"
+      ]
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Java",
+        "C"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+
   "references": [
   ],
   "projects": [
