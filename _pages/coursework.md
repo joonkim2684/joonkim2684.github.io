@@ -8,10 +8,10 @@ nav_order: 6
 ---
 
 #### Fall 25 (TBD)
-- CS 189: Introduction to Machine Learning
+- CS 270: Combinatorial Algorithms and Data Structures
 - CS 194-302: Computational Single-Cell And Systems Immunology
-- CS 172: Computability and Complexity OR CS 270: Combinatorial Algorithms and Data Structures
-- MUSIC 128: Topics in the History of Music
+- CS 189: Introduction to Machine Learning **OR** EECS249B: Cyber Physical System Design Prinicples and Applications
+- MUSIC 128: Topics in the History of Music (Might not take due to schedule conflict with lab work)
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
