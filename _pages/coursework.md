@@ -11,7 +11,7 @@ nav_order: 6
 - CS 270: Combinatorial Algorithms and Data Structures
 - CS 194-302: Computational Single-Cell And Systems Immunology
 - CS 189: Introduction to Machine Learning **OR** EECS249B: Cyber Physical System Design Prinicples and Applications
-- MUSIC 128: Topics in the History of Music (Might not take due to schedule conflict with lab work)
+- CS 294-180: Partition Functions: Algorithms and Complexity
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
