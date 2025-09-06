@@ -7,10 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-#### Fall 25 (TBD)
+#### Fall 25 (Current)
 - CS 270: Combinatorial Algorithms and Data Structures
 - CS 194-302: Computational Single-Cell And Systems Immunology
-- CS 189: Introduction to Machine Learning **OR** EECS249B: Cyber Physical System Design Prinicples and Applications
+- EECS249B: Cyber Physical System Design Prinicples and Applications
 - CS 294-180: Partition Functions: Algorithms and Complexity
 
 #### Spring 25 
