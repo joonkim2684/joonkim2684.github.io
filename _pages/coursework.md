@@ -9,9 +9,9 @@ nav_order: 6
 
 #### Fall 25 (Current)
 - CS 270: Combinatorial Algorithms and Data Structures
-- CS 194-302: Computational Single-Cell And Systems Immunology
-- EECS249B: Cyber Physical System Design Prinicples and Applications
 - CS 294-180: Partition Functions: Algorithms and Complexity
+- CS 194-302: Computational Single-Cell And Systems Immunology
+- EECS 249B: Cyber Physical System Design Prinicples and Applications
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
