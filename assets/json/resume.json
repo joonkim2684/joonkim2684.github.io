@@ -16,12 +16,38 @@
       "location": "Berkeley, CA",
       "area": "Electrical Engineering and Computer Science",
       "studyType": "Undergraduate",
-      "startDate": "2021-08",
-      "endDate": "Current",
+      "startDate": "2021",
+      "endDate": "2027(EXP)",
       "courses": []
     }
   ],
+  "publications": [
+    {
+      "name": "In-Silo Federated Learning vs. Centralized Learning for Segmenting Acute and Chronic Ischemic Brain Lesions",
+      "publisher": "Intelligence-Based Medicine",
+      "releaseDate": "2025-08-04",
+      "url": "https://doi.org/10.1016/j.ibmed.2025.100283",
+      "summary": "Comparative analysis of Federated and Centralized Learning on brain MRI images. Showed Federated Learning is as effective as Centralized learning on real-life non-i.i.d. brain lesion datasets of ~10,000 patients over 9 institutions."
+    },
+    {
+      "name": "Random Gradient Masking as a Defensive Measure to Deep Leakage in Federated Learning",
+      "publisher": "Arxiv, Preprint",
+      "releaseDate": "2024-08-15",
+      "url": "https://arxiv.org/abs/2408.08430",
+      "summary": "Compared the efficacy of randomly masking gradients from Federated Learning submissions against other defenses against Deep Leakage from Gradients such as Pruning, Compression, and Noising on Convolution Neural Networks"
+    }
+  ],
   "work": [
+    {
+      "name": "LBNL - Perlmutter Group",
+      "position": "Undergraduate Researcher",
+      "url": "https://highredshift.github.io/",
+      "startDate": "2025-09-01",
+      "endDate": "Current",
+      "summary": "Modeling the Carousel Lens to constrain cosmology using the multi-GPU node implementation of GIGA-Lens, an ML pipeline; Implementing Dirichlet Process to optimize Gaussian Mixtures for Variational Inference; advised by Professor Xiaosheng Huang",
+      "highlights": ["Statistical Modeling", "Strong Lensing", "Computational Physics"]
+    },
+
     {
       "name": "Rising Lab (University of Florida)",
       "position": "Undergraduate Researcher",
@@ -73,26 +99,16 @@
       ],
 
   "awards": [
-    
+    {
+      "title": "Korean Honor Scholarship",
+      "date": "2025-08",
+      "awarder": "Issued by the South Korean Government",
+      "summary": "Received $1500, selected 71 out of 356 students based on academic achievements"
+    }
       ],
   "certificates": [
       ],
-  "publications": [
-    {
-      "name": "In-Silo Federated Learning vs. Centralized Learning for Segmenting Acute and Chronic Ischemic Brain Lesions",
-      "publisher": "Intelligence-Based Medicine",
-      "releaseDate": "2025-08-04",
-      "url": "https://doi.org/10.1016/j.ibmed.2025.100283",
-      "summary": "Comparative analysis of Federated and Centralized Learning on brain MRI images. Showed Federated Learning is as effective as Centralized learning on real-life non-i.i.d. brain lesion datasets of ~10,000 patients over 9 institutions."
-    },
-    {
-      "name": "Random Gradient Masking as a Defensive Measure to Deep Leakage in Federated Learning",
-      "publisher": "Arxiv, Preprint",
-      "releaseDate": "2024-08-15",
-      "url": "https://arxiv.org/abs/2408.08430",
-      "summary": "Compared the efficacy of randomly masking gradients from Federated Learning submissions against other defenses against Deep Leakage from Gradients such as Pruning, Compression, and Noising on Convolution Neural Networks"
-    }
-  ],
+
   "interests": [
     {
       "name": "Theoretical CS Toolbox",

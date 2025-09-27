@@ -46,6 +46,7 @@ nav_order: 7
 - Godel, Escher, Bach (Hofstadter)
 - The Emperor's New Mind (Penrose)
 - Three Body Problem Trilogy (C. Liu)
+- Ball Lightning (C. Liu)
 - Superintelligence (Bostrom)
 - Human Compatible (Russell)
 - WORK (Suzman)
