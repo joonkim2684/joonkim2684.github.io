@@ -27,19 +27,19 @@ nav_order: 7
 - Introduction to the Theory of Computation, Chapters 1-5 (Sipser)
 - Randomized Algorithms, Chapters 1-4.3 (Motwani and Raghavan)
 - [Information Theory: A Tutorial Introduction](https://arxiv.org/pdf/1802.05968), (Stone)
-- An Introduction to Information Theory: Symbols, Signals and Noise, (Pierce)
+- An Introduction to Information Theory: Symbols, Signals and Noise (Pierce)
 - Machine Learning Refined, Chapters 1-5.1 (Watt, Borhani, and Katsaggelos)
 - CODE: The Hidden Language of Computer Hardware and Software, (Petzold)
 
 ##### Quantum Mechanics & Computation
 - A Modern Approach to Quantum Mechanics, Chapters 1-7 (Townsend)
-- Quantum Mechanics: The Theoretic Minumum, (Friedman)
+- Quantum Mechanics: The Theoretic Minumum (Friedman)
 - [Berekley CS191 Recording](https://youtube.com/playlist?list=PLXEJgM3ycgQW5ysL69uaEdPoof4it6seB&si=QmyQrg6tg1WrUwSp), Lecture 1-12 (U. Vazirani)
 
 ##### Mathematics
 - Abstract Algebra, Chapters 1-3 (Hungerford)
 - Fourier Analysis: An Introduction, Chapters 1-3 (Stein & Shakarchi)
-- Inside Interesting Integrals, (Nahin)
+- Inside Interesting Integrals (Nahin)
 - [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w), Lectures 1-42 (Chasnov)
 
 ##### Other Readings (Humanities, Ethics, Fiction)
