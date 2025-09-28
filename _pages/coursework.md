@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses. All notes are free for use.
+description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses. Some courses additional deliverables (scribe notes, projects, etc). All notes are free for use.
 nav: true
 nav_order: 6
 ---
@@ -15,9 +15,9 @@ nav_order: 6
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
-- CS 176: Algorithms for Computational Biology (A) [Notes](../assets/pdf/class_notes/CS176.pdf)
-- CS 177: Algorithmic Economics (A) [Notes](../assets/pdf/class_notes/CS177.pdf)
-- CS 294-284: Constraint Satisfaction Problems (A) [Notes](../assets/pdf/class_notes/CS294-CSP.pdf)
+- CS 176: Algorithms for Computational Biology (A) [Notes](../assets/pdf/class_notes/CS176.pdf) \| [Literature Review](../assets/pdf/projects/CS176-LitReview.pdf) on [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02000-8)
+- CS 177: Algorithmic Economics (A) [Notes](../assets/pdf/class_notes/CS177.pdf) \| [Lecture 6 Scribe Notes](../assets/pdf/scribe_notes/CS177-Lecture6.pdf)
+- CS 294-284: Constraint Satisfaction Problems (A) [Notes](../assets/pdf/class_notes/CS294-CSP.pdf) \| [Lecture 4 Scribe Notes](../assets/pdf/scribe_notes/CS294-CSP-Lecture4.pdf)
 
 #### Fall 24
 - CS 170: Efficient Algorithms and Intractable Problems (A+) [Notes](../assets/pdf/class_notes/CS170.pdf)
