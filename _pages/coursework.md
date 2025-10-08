@@ -12,6 +12,7 @@ nav_order: 6
 - CS 294-180: Partition Functions: Algorithms and Complexity
 - CS 194-302: Computational Single-Cell And Systems Immunology
 - EECS 249B: Cyber Physical System Design Prinicples and Applications
+- UGIS 192D (URAP): Supervised Research: Physical Sciences
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
@@ -28,7 +29,7 @@ nav_order: 6
 #### Summer 24
 - CS 61BL: Data Structures and Programming Methodology (A+)
 
-*(Leave of absence Fall 22 - Spring 24 due to Military Service in South Korea)*
+> Leave of absence Fall 22 - Spring 24 due to Military Service in South Korea
 
 #### Spring 22
 - CS 70: Discrete Mathematics and Probability Theory (A+) [Notes](../assets/pdf/class_notes/CS70.pdf)
@@ -46,3 +47,4 @@ nav_order: 6
 #### Summer 19
 - CS 61A: The Structure and Interpretation of Computer Programs (A+)
 - DATA C8: Foundations of Data Science (A)
+
