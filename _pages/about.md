@@ -27,24 +27,15 @@ I am a junior at UC Berkeley majoring in EECS. My interest lies broadly in the c
 </details>
 
 <details markdown="block">
-  <summary>List of Current Interests (a.k.a all of CS)</summary>
-- TCS/Algorithms Toolbox
+  <summary>List of Current Interests</summary>
+- Algorithms
     - Combinatorial
     - Randomized
-    - Approximation
     - Spectral
-- NP-Optimization
-    - Heuristics
-    - Constraint Programming
-    - Machine Learning (when justified!)
-- Algorithm Engineering
-    - Real data inputs
-    - Beyond worst-case analysis
-    - Performance evaluation
 - Scientific Modeling/Computing
     - Bioinformatics
-    - Probabilistic/Statistical models
-    - Formal methods
+    - Probabilistic/Statistical Models
+    - Stochastic Processes
 </details>
 
 
