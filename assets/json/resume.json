@@ -44,7 +44,7 @@
       "url": "https://highredshift.github.io/",
       "startDate": "2025-09-01",
       "endDate": "Current",
-      "summary": "Modeling the Carousel Lens to constrain cosmology using the multi-GPU node implementation of GIGA-Lens, an ML pipeline; Implementing Dirichlet Process to optimize Gaussian Mixtures for Variational Inference; advised by Professor Xiaosheng Huang",
+      "summary": "Modeling the Carousel Lens to constrain cosmology using the multi-GPU node implementation of GIGA-Lens, an ML pipeline; Investigating numerical instability of Stochastic Variational Inference and Hamiltonian MC; advised by Professor Xiaosheng Huang",
       "highlights": ["Statistical Modeling", "Strong Lensing", "Computational Physics"]
     },
 

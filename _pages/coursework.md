@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses. Some courses additional deliverables (scribe notes, projects, etc). All notes are free for use.
+description: Courses taken at UC Berkeley. Hand-scribed lecture notes for selected courses. Some courses additional deliverables (scribe notes, projects, etc). All notes are free to use by any individuals.
 nav: true
 nav_order: 6
 ---
@@ -10,7 +10,7 @@ nav_order: 6
 #### Fall 25 (Current)
 - CS 270: Combinatorial Algorithms and Data Structures
 - CS 294-180: Partition Functions: Algorithms and Complexity
-- CS 194-302: Computational Single-Cell And Systems Immunology
+- CS 194-302: Computational Single-Cell And Systems Immunology [Class Presentation PDF](../assets/pdf/presentations/Cohort_Studies_Presentation.pdf)
 - EECS 249B: Cyber Physical System Design Prinicples and Applications
 - UGIS 192D (URAP): Supervised Research: Physical Sciences
 
