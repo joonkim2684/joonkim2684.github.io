@@ -23,6 +23,13 @@
   ],
   "publications": [
     {
+      "name": "Bit-Flipping Attack Exploration and Countermeasure in 5G Network",
+      "publisher": "IEEE MASS",
+      "releaseDate": "2025-10-08",
+      "url": "https://arxiv.org/abs/2511.04882",
+      "summary": "Identified the vulnerability of 5G networks without costly integrity protection and designed a man-in-the-middle that either succeeds in flipping one bit or denies service; implemented a keystream based method as a runtime-efficient alternative defense."
+    },
+    {
       "name": "In-Silo Federated Learning vs. Centralized Learning for Segmenting Acute and Chronic Ischemic Brain Lesions",
       "publisher": "Intelligence-Based Medicine",
       "releaseDate": "2025-08-04",
