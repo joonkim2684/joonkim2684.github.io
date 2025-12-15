@@ -19,6 +19,7 @@ I am a junior at UC Berkeley majoring in EECS. My interest lies broadly in the c
 
 <details markdown="block">
   <summary>Detailed Summary</summary>
+- Recently, I've been looking into (Approximate) Maximum Weight Matching, advised by Professor Satish Rao. 
 - This summer, I participated in a [SURF-REU program](https://sandip.ece.ufl.edu/reu-22/) at University of Florida and researched automotive security, led by Professor Sandip Ray. 
 - In Fall 24, I worked as an undergraduate researcher in the [C.H.E.N. Lab](https://chenlab.io/), affiliated with [BAIR](https://bair.berkeley.edu/) and [CPH](https://computationalhealth.berkeley.edu/), led by Professor [Irene Chen](https://irenechen.net/). There, I investigated the effect of zero-shot LLM inference on self-supervised learning alongside Ph.D. candidate [Jichan Chung](https://scholar.google.com/citations?user=pXQfWTkAAAAJ&hl=en). 
 - Previously, I worked as a research intern at [JLK Inc.](https://jlkgroup.com/en/about/), researching federated learning models applied to MRI image segmentation. 
