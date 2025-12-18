@@ -9,9 +9,9 @@ nav_order: 6
 
 #### Fall 25 (Current)
 - CS 270: Combinatorial Algorithms and Data Structures
-- CS 294-180: Partition Functions: Algorithms and Complexity
-- CS 194-302: Computational Single-Cell And Systems Immunology [Class Presentation PDF](../assets/pdf/presentations/Cohort_Studies_Presentation.pdf)
-- EECS 249B: Cyber Physical System Design Prinicples and Applications
+- CS 294-180: Partition Functions: Algorithms and Complexity [Notes](../assets/pdf/class_notes/CS294-Partition_Functions.pdf) \| [Presentation Writeup](../assets/pdf/projects/Partition_Functions_Writeup.pdf) on [Paper](https://arxiv.org/abs/2204.02570)
+- CS 194-302: Computational Single-Cell And Systems Immunology [Notes](../assets/pdf/class_notes/CS194-Immunology.pdf) \| [Class Presentation PDF](../assets/pdf/presentations/Cohort_Studies_Presentation.pdf) \| [Final Report](../assets/pdf/projects/Immunology_Report.pdf)
+- EECS 249B: Cyber Physical System Design Prinicples and Applications [Notes](../assets/pdf/class_notes/EECS249B.pdf) \| [Final Report](../assets/pdf/projects/CPS_Report.pdf)
 - UGIS 192D (URAP): Supervised Research: Physical Sciences
 
 #### Spring 25 

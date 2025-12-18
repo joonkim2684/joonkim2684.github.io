@@ -12,7 +12,6 @@ nav_order: 7
 - The Cauchy-Schwartz Master Class (Steele)
 - Mathematics and Computation (Wigderson)
 - Approximation Algorithms (V. Vazirani)
-- A Guide to Experimental Algorithms (McGeoch)
 
 ### To Read (Someday?)
 - How does One Cut a Triangle? (Soifer)
