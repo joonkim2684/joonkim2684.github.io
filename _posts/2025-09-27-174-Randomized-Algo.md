@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Two Interesting Randomized Algorithms (1)
+title: An Interesting Randomized Algorithm
 date: 2025-09-27 
-description: I present two very interesting algorithms I learned in CS174, based only on elementary probability theory. Part 1.
+description: I present a very interesting algorithm I learned in CS174, based only on elementary probability theory. 
 tags: algorithms, probability
 categories: algorithms
 ---
 
 ### CS174 and What it Taught Me
 
-I am writing this post to appreciate once more the absolutely fascinating contents of CS174: Combinatorics and Discrete Probability, taught by the quite legendary Professor [Alistair Sinclair](https://people.eecs.berkeley.edu/~sinclair/). I have to mention that the course description itself is quite misleading (and scares away most CS students) because the actual content is rooted in *randomized algorithms*, which is a class of algorithms that allows the use of a perfectly random bit string for decision making. Interestingly, just by allowing the computer to sometimes make random choices, we can obtain extremely simple and elegant solutions to seemingly hard problems (with some caveats, of course). Other times, we require the output to be randomized, which requires the algorithm to be randomized in the first place. And inevitably, probability comes in for the analysis of runtime and correctness.
+I am writing this post to appreciate once more the fascinating contents of CS174: Combinatorics and Discrete Probability, taught by the quite legendary Professor [Alistair Sinclair](https://people.eecs.berkeley.edu/~sinclair/). I have to mention that the course description itself is quite misleading (and scares away most CS students) because the actual content is rooted in *randomized algorithms*, which is a class of algorithms that allows the use of a perfectly random bit string for decision making. Interestingly, just by allowing the computer to sometimes make random choices, we can obtain extremely simple and elegant solutions to seemingly hard problems (with some caveats, of course). Other times, we require the output to be randomized, which requires the algorithm to be randomized in the first place. And inevitably, probability comes in for the analysis of runtime and correctness.
 
-What was truly inspiring for me was the fact that we can get so far in analysis without even invoking the concept of variance or other advanced topics in probability. Simple distributions and expectation arguments can be powerful, if used correctly. The two algorithms I am about to present showcase just that, albeit they challenge you to understand randomness at a deeper level. This is part 1 of this series, covering one of the two that I prepared. I left some very simple exercises for the reader to fill in the details because that's what math textbooks do. Just kidding, this is what Prof. Sinclair does in his lecture notes to make the reading a bit more interactive and for sanity checks, so I'm following his style for these posts out of respect.
+What was truly inspiring for me was the fact that we can get so far in analysis without even invoking the concept of variance or other advanced topics in probability. Simple distributions and expectation arguments can be powerful, if used correctly. The algorithm I am about to present showcases just that, albeit it challenges you to understand randomness at a deeper level. I left some very simple exercises for the reader to fill in the details because that's what math textbooks do. Just kidding, this is what Prof. Sinclair does in his lecture notes to make the reading a bit more interactive and for sanity checks, so I'm following his style for these posts out of respect.
 
 ### Simulating a Biased Coin with an Unbiased Coin
 
