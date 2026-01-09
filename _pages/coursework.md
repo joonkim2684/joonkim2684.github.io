@@ -14,11 +14,11 @@ nav_order: 6
 - MUSIC 128: Topics in the History of Music
 
 #### Fall 25
-- CS 270: Combinatorial Algorithms and Data Structures
+- CS 270: Combinatorial Algorithms and Data Structures (A)
 - CS 294-180: Partition Functions: Algorithms and Complexity (A+) [Notes](../assets/pdf/class_notes/CS294-Partition_Functions.pdf) \| [Presentation Writeup](../assets/pdf/projects/Partition_Functions_Writeup.pdf) on [Paper](https://arxiv.org/abs/2204.02570)
-- CS 194-302: Computational Single-Cell And Systems Immunology [Notes](../assets/pdf/class_notes/CS194-Immunology.pdf) \| [Class Presentation PDF](../assets/pdf/presentations/Cohort_Studies_Presentation.pdf) \| [Final Report](../assets/pdf/projects/Immunology_Report.pdf)
+- CS 194-302: Computational Single-Cell And Systems Immunology (A+) [Notes](../assets/pdf/class_notes/CS194-Immunology.pdf) \| [Class Presentation PDF](../assets/pdf/presentations/Cohort_Studies_Presentation.pdf) \| [Final Report](../assets/pdf/projects/Immunology_Report.pdf)
 - EECS 249B: Cyber Physical System Design Principles and Applications (A) [Notes](../assets/pdf/class_notes/EECS249B.pdf) \| [Final Report](../assets/pdf/projects/CPS_Report.pdf)
-- UGIS 192D (URAP): Supervised Research: Physical Sciences
+- UGIS 192D (URAP): Supervised Research: Physical Sciences (P)
 
 #### Spring 25 
 - CS 174: Combinatorics and Discrete Probability (A) [Notes](../assets/pdf/class_notes/CS174.pdf)
