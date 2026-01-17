@@ -10,7 +10,7 @@ nav_order: 6
 #### Spring 26 (Tentative)
 - CS 189: Introduction to Machine Learning
 - CS 194-198: Networks: Models, Processes & Algorithms
-- CS 294-308: Semidefinite Programming And Sum-Of-Squares Proofs
+- CS 274: Computational Geometry
 - MUSIC 128: Topics in the History of Music
 
 #### Fall 25
