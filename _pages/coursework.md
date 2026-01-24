@@ -9,9 +9,9 @@ nav_order: 6
 
 #### Spring 26 (Tentative)
 - CS 194-198: Networks: Models, Processes & Algorithms
-- CS 274: Computational Geometry
-- CS 189: Introduction to Machine Learning OR CS 294-268: Proving Tcs And Math Theorems In Lean
-- MUSIC 128: Topics in the History of Music
+- CS 274: Computational Geometry *OR* CS 189: Introduction to Machine Learning
+- CS 294-268: Proving Tcs And Math Theorems In Lean
+- ANTHRO 115: Introduction to Medical Anthropology
 
 #### Fall 25
 - CS 270: Combinatorial Algorithms and Data Structures (A)
