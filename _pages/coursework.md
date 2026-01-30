@@ -7,11 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-#### Spring 26 (Tentative)
+#### Spring 26 (Current)
 - CS 194-198: Networks: Models, Processes & Algorithms
-- CS 274: Computational Geometry *OR* CS 189: Introduction to Machine Learning
+- CS 274: Computational Geometry 
 - CS 294-268: Proving Tcs And Math Theorems In Lean
 - ANTHRO 115: Introduction to Medical Anthropology
+- CS 370: Adaptive Instruction Methods in Computer Science
 
 #### Fall 25
 - CS 270: Combinatorial Algorithms and Data Structures (A)
