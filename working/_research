@@ -1,0 +1,16 @@
+---
+REMOVE # FOR VISIBILITY
+#layout: page
+#permalink: /research/
+#title: research
+#description: Current research topics.
+#nav: true
+#nav_order: 8
+---
+
+#### MCMC Mixing Time
+
+- Studying the mixing time lower bound of lattice triangulation Glauber dynamics for λ > 1 in [CMSS15](https://projecteuclid.org/journals/annals-of-applied-probability/volume-25/issue-3/Random-lattice-triangulations-Structure-and-algorithms/10.1214/14-AAP1033.full)
+- Attempting to improve $$T_{mix}$$ from $$e^{\Omega((m+n))}$$ to $$e^{\Omega((m+n)mn)}$$ by bounding the conductance of the flip graph
+
+#### Dynamic Bipartite Matching
