@@ -13,7 +13,6 @@ nav_order: 6
 - CS 294-268: Proving Tcs And Math Theorems In Lean
 - ANTHRO 115: Introduction to Medical Anthropology
 - CS 370: Adaptive Instruction Methods in Computer Science
-- UGIS 192D (URAP): Supervised Research: Physical Sciences
 
 #### Fall 25
 - CS 270: Combinatorial Algorithms and Data Structures (A)
