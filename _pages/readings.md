@@ -11,7 +11,7 @@ nav_order: 7
 - [Lecture Notes on Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) (Trevisan)
 - The Cauchy-Schwartz Master Class (Steele)
 - Mathematics and Computation (Wigderson)
-- Approximation Algorithms (V. Vazirani)
+- The Design of Approximation Algorithms (Williamson & Shmoys)
 
 ### To Read (Someday?)
 - How does One Cut a Triangle? (Soifer)

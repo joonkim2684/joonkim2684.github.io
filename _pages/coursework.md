@@ -7,9 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-#### Spring 26 (Current)
-- CS 194-198: Networks: Models, Processes & Algorithms
-- CS 274: Computational Geometry 
+#### Spring 26 (Tentative)
+- CS 161: Computer Security
+- EECS C191A: Introduction to Quantum Computing I
+- BIOENG 100: Ethics in Science and Engineering
+
+#### Spring 26
+- CS 194-198: Networks: Models, Processes & Algorithms [Notes](../assets/pdf/class_notes/CS194-Networks.pdf) 
+- CS 274: Computational Geometry [Notes](../assets/pdf/class_notes/CS274.pdf) 
 - CS 294-268: Proving Tcs And Math Theorems In Lean
 - ANTHRO 115: Introduction to Medical Anthropology
 - CS 370: Adaptive Instruction Methods in Computer Science
