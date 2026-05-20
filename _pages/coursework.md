@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 #### Spring 26 (Tentative)
-- CS 161: Computer Security
+- CS 186: Introduction to Database Systems
 - EECS C191A: Introduction to Quantum Computing I
 - BIOENG 100: Ethics in Science and Engineering
 
