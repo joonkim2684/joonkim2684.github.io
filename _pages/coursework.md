@@ -13,11 +13,11 @@ nav_order: 6
 - BIOENG 100: Ethics in Science and Engineering
 
 #### Spring 26
-- CS 194-198: Networks: Models, Processes & Algorithms [Notes](../assets/pdf/class_notes/CS194-Networks.pdf) 
-- CS 274: Computational Geometry [Notes](../assets/pdf/class_notes/CS274.pdf) 
-- CS 294-268: Proving Tcs And Math Theorems In Lean
-- ANTHRO 115: Introduction to Medical Anthropology
-- CS 370: Adaptive Instruction Methods in Computer Science
+- CS 194-198: Networks: Models, Processes & Algorithms (A+) [Notes](../assets/pdf/class_notes/CS194-Networks.pdf) 
+- CS 274: Computational Geometry (A) [Notes](../assets/pdf/class_notes/CS274.pdf) 
+- CS 294-268: Proving Tcs And Math Theorems In Lean (A)
+- ANTHRO 115: Introduction to Medical Anthropology (P)
+- CS 370: Adaptive Instruction Methods in Computer Science (P)
 
 #### Fall 25
 - CS 270: Combinatorial Algorithms and Data Structures (A)
