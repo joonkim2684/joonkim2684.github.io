@@ -15,7 +15,7 @@ nav_order: 6
 #### Spring 26
 - CS 194-198: Networks: Models, Processes & Algorithms (A+) [Notes](../assets/pdf/class_notes/CS194-Networks.pdf) 
 - CS 274: Computational Geometry (A) [Notes](../assets/pdf/class_notes/CS274.pdf) 
-- CS 294-268: Proving Tcs And Math Theorems In Lean (A)
+- CS 294-268: Proving Tcs And Math Theorems In Lean (A) [Final Project on Karger's MinCut](https://github.com/ucb-lean-course-sp26/final-projects/tree/main/Formalizing%20Karger's%20MinCut%20in%20Lean4-Joon%20Kim)
 - ANTHRO 115: Introduction to Medical Anthropology (P)
 - CS 370: Adaptive Instruction Methods in Computer Science (P)
 
